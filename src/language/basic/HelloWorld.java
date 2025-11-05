@@ -6,6 +6,10 @@ public class HelloWorld {
 		System.out.println("Hello World!!!!!");
 		
 		
+		String [] empname = {"Nehal", "Sakshi", "Mansi"};
+		int [] empID = {001};
+		
+		
 
 	}
 
