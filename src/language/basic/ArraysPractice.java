@@ -10,7 +10,7 @@ public class ArraysPractice {
         String[][][] result = new String[5][6][2];
 
         // ---------- Semester 1 ----------
-        result[0][0][0] = "Mathematics I";         result[0][0][1] = "Pass(78)";
+        result[0][0][0] = "Mathematics I";         result[0][0][1] = "Pass(78)"; 
         result[0][1][0] = "Physics";               result[0][1][1] = "Pass(85)";
         result[0][2][0] = "Chemistry";             result[0][2][1] = "Fail(21)";
         result[0][3][0] = "Computer Programming";  result[0][3][1] = "Pass(74)";
@@ -56,6 +56,7 @@ public class ArraysPractice {
 
         System.out.println("Semester 4 - Subject 3 Status/Marks: " + result[3][2][1]);
         System.out.println("Semester 4 - Subject 6 Status/Marks: " + result[3][5][1]);
+        
 
 	}
 
